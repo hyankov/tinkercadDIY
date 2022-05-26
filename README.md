@@ -2,6 +2,8 @@
 Check out my TinkerCAD profile [here](https://www.tinkercad.com/users/2Q6HAutcLix-hyankov). NB: You need to be logged in, to browse profile's projects.
 
 # Project
+Some of the projects I've done there ...
+
 ## Beer Opener Game
 [Link](https://www.tinkercad.com/things/82MTuLfEjrp)
 
